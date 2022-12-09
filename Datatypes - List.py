@@ -1,4 +1,5 @@
-""" What are Lists? Lists are used to store different items in a single Variable. 
+""" What are Lists? Lists are used to store different items in a single Variable
+and they're MUTABLE(They can be changed at any time).
 For example, your Handbag! You can keep different stuffs in your Handbag. 
 Such is Python Lists, Tuples and Dictionaries. 
 
